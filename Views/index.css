@@ -1,0 +1,21 @@
+.titre{
+    color: red;
+}
+body{
+    background-color: bisque;
+}
+header{
+    position:relative;
+}
+ul{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+li{
+    list-style-type: none;
+}
+hr{
+    background-color: rgb(39, 38, 37);
+    width: 50%;
+}
